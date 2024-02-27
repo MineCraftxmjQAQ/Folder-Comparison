@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8ADA7-75E0-4C0C-86EB-5297D746AD5A}|\u6587\u4EF6\u5939\u5BF9\u6BD4.vbproj|c:\\users\\19603\\desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4v1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8ADA7-75E0-4C0C-86EB-5297D746AD5A}|\u6587\u4EF6\u5939\u5BF9\u6BD4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8ADA7-75E0-4C0C-86EB-5297D746AD5A}|\u6587\u4EF6\u5939\u5BF9\u6BD4.vbproj|C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1EA8ADA7-75E0-4C0C-86EB-5297D746AD5A}|\u6587\u4EF6\u5939\u5BF9\u6BD4.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\Form1.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-24T07:59:42.298Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\19603\\Desktop\\\u6587\u4EF6\u5939\u5BF9\u6BD4V1.0.0\\\u539F\u59CB\u5DE5\u7A0B\u6587\u4EF6\\\u6587\u4EF6\u5939\u5BF9\u6BD4\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-24T08:12:37.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

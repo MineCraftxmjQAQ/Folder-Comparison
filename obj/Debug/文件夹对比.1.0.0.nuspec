@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>文件夹对比</id>
+    <version>1.0.0</version>
+    <authors>裂空之云</authors>
+    <description>本程序仅且只可用于学习交流,禁止用于任何商业及违法用途</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.runtimeconfig.json" target="lib\net8.0-windows7.0\文件夹对比.runtimeconfig.json" />
+    <file src="C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.dll" target="lib\net8.0-windows7.0\文件夹对比.dll" />
+  </files>
+</package>

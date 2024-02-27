@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio 2022\Source\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.exe
+D:\Documents\Visual Studio 2022\Source\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.deps.json
+D:\Documents\Visual Studio 2022\Source\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Source\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.dll
+D:\Documents\Visual Studio 2022\Source\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.pdb
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.Form1.resources
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.vbproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.AssemblyInfo.vb
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.vbproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.dll
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\refint\文件夹对比.dll
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.pdb
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Source\文件夹对比\obj\Debug\net8.0-windows\ref\文件夹对比.dll
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.exe
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.deps.json
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.runtimeconfig.json
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.dll
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Debug\net8.0-windows\文件夹对比.pdb
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.Form1.resources
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.vbproj.GenerateResource.cache
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.AssemblyInfoInputs.cache
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.AssemblyInfo.vb
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.vbproj.CoreCompileInputs.cache
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.dll
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\refint\文件夹对比.dll
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.pdb
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\文件夹对比.genruntimeconfig.cache
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\obj\Debug\net8.0-windows\ref\文件夹对比.dll
