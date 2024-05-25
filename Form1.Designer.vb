@@ -34,6 +34,7 @@ Partial Class Form1
         ' ListBox1
         ' 
         ListBox1.FormattingEnabled = True
+        ListBox1.HorizontalScrollbar = True
         ListBox1.ItemHeight = 17
         ListBox1.Location = New Point(12, 42)
         ListBox1.Name = "ListBox1"
@@ -43,6 +44,7 @@ Partial Class Form1
         ' ListBox2
         ' 
         ListBox2.FormattingEnabled = True
+        ListBox2.HorizontalScrollbar = True
         ListBox2.ItemHeight = 17
         ListBox2.Location = New Point(483, 42)
         ListBox2.Name = "ListBox2"
@@ -52,6 +54,7 @@ Partial Class Form1
         ' ListBox3
         ' 
         ListBox3.FormattingEnabled = True
+        ListBox3.HorizontalScrollbar = True
         ListBox3.ItemHeight = 17
         ListBox3.Location = New Point(954, 42)
         ListBox3.Name = "ListBox3"
@@ -61,6 +64,7 @@ Partial Class Form1
         ' ListBox4
         ' 
         ListBox4.FormattingEnabled = True
+        ListBox4.HorizontalScrollbar = True
         ListBox4.ItemHeight = 17
         ListBox4.Location = New Point(12, 596)
         ListBox4.Name = "ListBox4"

@@ -243,7 +243,7 @@ C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\hostfxr.dll
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\hostpolicy.dll
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\mscordaccore.dll
-C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\mscordaccore_amd64_amd64_8.0.224.6711.dll
+C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\mscordaccore_amd64_amd64_8.0.524.21615.dll
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\mscordbi.dll
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\mscorrc.dll
 C:\Users\19603\Desktop\文件夹对比V1.0.0\原始工程文件\文件夹对比\bin\Release\net8.0-windows\win-x64\msquic.dll
